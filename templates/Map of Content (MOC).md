@@ -1,11 +1,9 @@
-{{date:YYYYMMD}}{{time:HHmm}}
+{{date:YYYYMMDD}}{{time:HHmm}}
 
 Status: #MOC
 Tags:
 
 # {{Title}}
-
-
 
 
 

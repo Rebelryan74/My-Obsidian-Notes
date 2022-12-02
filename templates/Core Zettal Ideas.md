@@ -1,4 +1,4 @@
-{{date:YYYYMMD}}{{time:HHmm}}
+{{date:YYYYMMDD}}{{time:HHmm}}
 
 Status: #idea
 Tags:
@@ -14,6 +14,7 @@ Tags:
 
 
 
+#### related
 
 
 ## Refrences
